@@ -4,6 +4,13 @@
 This app helps you to make a proper list of grocery items with quantity and price so that, when you go for shopping next time you don't forget anything to buy and have a track of your expenditure for budget maintenance.
 
 # Screenshots
+## workspace
+![](/Screenshots/main_xml.png)
+![](Screenshots/MainActivity.png)
+## APP
+![](/Screenshots/app1.jpg)
+![](Screenshots/app2.jpg)
+![](Screenshots/app3.jpg)
 
 
 
