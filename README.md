@@ -4,13 +4,14 @@
 This app helps you to make a proper list of grocery items with quantity and price so that, when you go for shopping next time you don't forget anything to buy and have a track of your expenditure for budget maintenance.
 
 # Screenshots
-## workspace
+## Workspace
 ![](/Screenshots/main_xml.png)
 ![](Screenshots/MainActivity.png)
 ## APP
-![](/Screenshots/app1.jpg)
-![](Screenshots/app2.jpg)
-![](Screenshots/app3.jpg)
+<img src="https://github.com/smartinternz02/SPSGP-97705-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/Screenshots/app1.jpg" height = "640" width="360" align="center">
+<img src="https://github.com/smartinternz02/SPSGP-97705-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/Screenshots/app2.jpg" height = "640" width="360">
+<img src="https://github.com/smartinternz02/SPSGP-97705-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/Screenshots/app3.jpg" height = "640" width="360">
+
 
 
 
